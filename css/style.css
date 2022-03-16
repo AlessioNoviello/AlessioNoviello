@@ -1,0 +1,33 @@
+.p1 {
+    color: greenyellow;
+}
+
+.bg {
+    background-color: #181818;
+}
+
+h3 {
+    color: #d2afff;
+}
+
+.text {
+    color: #f6f6f6;
+    text-align: justify;
+}
+
+.presentazione{
+    color: #fff;
+    margin-right: auto;
+    margin-left: auto;
+    text-justify: justify;
+    font-size: 18px;
+}
+
+.container-fluid {
+    position: relative; 
+}
+
+.helloworld {
+    margin-left: auto;
+    margin-right: auto;
+}
