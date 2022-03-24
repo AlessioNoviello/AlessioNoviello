@@ -1,0 +1,16 @@
+.bg{
+    background-color: #181818;
+}
+.projects{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.alert{
+    position: relative;
+    top: 10px;
+}
+
+.bg-progress{
+color: #d2afff;
+}

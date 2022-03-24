@@ -7,6 +7,7 @@
 }
 
 h3 {
+    text-align: center;
     color: #d2afff;
 }
 
@@ -30,4 +31,19 @@ h3 {
 .helloworld {
     margin-left: auto;
     margin-right: auto;
+}
+
+
+/*Animazione iniziale*/
+
+@keyframes sample{
+from {top: 500px;}
+to{top:0px;}
+}
+
+.animazione{
+position:relative;
+    animation-name: sample;
+  animation-duration: 3s;  
+  animation-direction: forwards;
 }
